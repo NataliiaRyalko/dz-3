@@ -15,8 +15,8 @@
     </object>
     <object type="good studento">
        <name>Lisa</name>
-       <age>18</age>
        <gender>femail</gender>
+       <age>18</age>
        <everageMark>5</everageMark>
           <subgects history="5" math="5" music="5" programming="5" />
        <isGraduated>yes</isGraduated>

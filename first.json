@@ -19,8 +19,8 @@
        {
           "type":"good studento",
           "name":"Lisa",
-          "age":"18",
           "gender":"femail",
+          "age":"18",
           "everage mark":5,
           "subgects":[
              {
